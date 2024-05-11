@@ -1,0 +1,1 @@
+# nestjs-project-auto-generate-mongo-schem-cli
